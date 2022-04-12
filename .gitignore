@@ -1,0 +1,17 @@
+.vscode
+
+# questasim
+work
+*.mti
+*.mpf
+*.ini
+*.wlf
+*.dbg
+*.mpf_new
+transcript
+
+# quartus
+*.ipinfo
+
+# C++
+*.out
