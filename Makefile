@@ -1,6 +1,6 @@
 CXX = g++
 CXXFLAGS = -Wall
-LIBS = -I/usr/include/opencv4 -lopencv_core -lopencv_imgproc -lopencv_highgui -lopencv_imgcodecs
+LIBS = -I/usr/include/opencv4 -lopencv_core -lopencv_imgproc -lopencv_highgui -lopencv_imgcodecs -lopencv_objdetect -lopencv_videoio -lopencv_video
 
 TARGET = $(MAKECMDGOALS)
 

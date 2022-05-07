@@ -1,17 +1,18 @@
 .vscode
 
 # questasim
+questasim
 work
-*.mti
-*.mpf
-*.ini
 *.wlf
-*.dbg
-*.mpf_new
 transcript
+project
+*.mpf*
 
 # quartus
-*.ipinfo
+quartus
+*tmp
 
 # C++
 *.out
+
+lesson14_verilog_code
